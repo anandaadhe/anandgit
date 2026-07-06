@@ -1,4 +1,5 @@
-Git commands and examples for practice.
+#Git commands and examples.
+
 Here are some commonly used Git commands:
 
 git init: Initialize a new Git repository in a directory.
