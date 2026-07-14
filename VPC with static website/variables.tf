@@ -3,7 +3,7 @@ variable "aws_region" {
 }
 
 variable "key_name" {
-  description = "Existing EC2 Key Pair Name"
+  description = "key.pem"
 }
 
 variable "my_ip" {
